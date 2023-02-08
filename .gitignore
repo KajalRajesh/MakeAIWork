@@ -19,3 +19,4 @@ log.txt
 .DS_Store
 scripts/shape/__pycache__
 .vscode/settings.json
+scripts/__pycache__/random.cpython-310.pyc
